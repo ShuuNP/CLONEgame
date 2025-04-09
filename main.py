@@ -2,8 +2,6 @@ import pygame
 import sys
 from characterMainPlayer import Player
 
-
-# Initialize pygame
 pygame.init()
 
 WIDTH = 1280  
